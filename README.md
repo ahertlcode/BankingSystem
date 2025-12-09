@@ -71,7 +71,7 @@
 `dotnet test`
 
 `Write-Host ""
-Write-Host "✔ Setup complete!"
+Write-Host "Setup complete!"
 Write-Host "Solution: $ProjectName.sln"
 Write-Host "API Project: $ApiProjectName"
 Write-Host "Test Project: $TestProjectName"
@@ -83,5 +83,6 @@ https://www.youtube.com/watch?v=ojCzZNg0zD8
 https://github.com/ahertlcode/BankingSystem.git
 
 `.\tdd.ps1 -ProjectRoot "projectPath"`
+
 
 
